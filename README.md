@@ -1,7 +1,7 @@
 # Controle de Empréstimos de Livros
 
 **Aluno:** Matheus Nicolas da Silva Soto  
-**Turma:** [preencha com sua turma]
+**Turma:** 2 D.S
 
 ## Tema escolhido
 
